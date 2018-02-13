@@ -13,9 +13,8 @@ public class Lab1activity {
 			
 		}
 		System.out.println(String.format("Sum of the number is %d",sum));
-
-		System.out.print(String.format("Min = %d",min));
-		System.out.print(String.format("; Max = %d",max));
+		
+		
 	}
 	
 	
